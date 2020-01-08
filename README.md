@@ -24,7 +24,7 @@ Admin Dashboard coded in **Django Framework** on top of **Argon Dashboard PRO** 
 
 ## App Screenshots
 
-![Django Dashboard Argon PRO - App Screen.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-pro-screen.png)
+![Django Dashboard Argon PRO - App Screen.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-pro-screen-3.png)
 
 <br />
 
@@ -36,7 +36,7 @@ Admin Dashboard coded in **Django Framework** on top of **Argon Dashboard PRO** 
 
 <br />
 
-![Django Dashboard Argon PRO - App Screen.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-pro-screen-3.png)
+![Django Dashboard Argon PRO - App Screen.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-pro-screen-4.png)
 
 <br />
 
