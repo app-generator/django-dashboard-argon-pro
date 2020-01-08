@@ -1,13 +1,13 @@
 # [Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)
 
-**[Commercial Admin Dashboard](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)** coded in **Django Framework** on top of **Argon Dashboard PRO** design. **Features**:
+Admin Dashboard coded in **Django Framework** on top of **Argon Dashboard PRO** design. **Features**:
 
 - UI-Ready PRO Kit: [Argon Dashboard Pro](https://www.creative-tim.com/product/material-dashboard-pro) provided by **Creative-Tim**
 - SQLite, native ORM
 - Clean code-base and modular design
 - Session-Based authentication (login, register)
 - Forms validation
-- **License Commercial** 
+- **License Commercial**
 
 <br />
 
@@ -58,6 +58,7 @@ $ # Access the web app in browser: http://127.0.0.1:8000/
 ## Credits & Links
 
 - [Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) - Product page
+- [Django Dashboard Argon PRO](https://www.youtube.com/watch?v=lhnGXye6kdM) - yTube presentation
 - [Django Framework](https://www.djangoproject.com/) - Offcial website
 
 <br />
