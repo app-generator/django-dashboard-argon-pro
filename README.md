@@ -7,45 +7,12 @@ Admin Dashboard coded in **Django Framework** on top of **Argon Dashboard PRO** 
 - Clean code-base and modular design
 - Session-Based authentication (login, register)
 - Forms validation
-- **License Commercial**
+- FREE updates and **24/7 Live support** via [Discord](https://discord.gg/fZC6hup)
+- [Commercial License](./LICENSE.md)
 
 <br />
 
-![Django Dashboard Argon Pro - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-pro-intro.gif)
-
-<br />
-
-## How to use it
-
-```bash
-$ # Get the code
-$ git clone https://github.com/app-generator/django-dashboard-nowui.git
-$ cd django-dashboard-nowui
-$
-$ # Virtualenv modules installation (Unix based systems)
-$ virtualenv --no-site-packages env
-$ source env/bin/activate
-$
-$ # Virtualenv modules installation (Windows based systems)
-$ # virtualenv --no-site-packages env
-$ # .\env\Scripts\activate
-$ 
-$ # Install modules
-$ # SQLIte version
-$ pip3 install -r requirements.txt
-$
-$ # Database setup
-$ python manage.py makemigrations
-$ python manage.py migrate
-$
-$ # Start the application (development mode)
-$ python manage.py runserver # default port 8000
-$
-$ # Start the app - custom port
-$ # python manage.py runserver 0.0.0.0:<your_port>
-$
-$ # Access the web app in browser: http://127.0.0.1:8000/
-```
+![Django Dashboard Argon PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-pro-intro.gif)
 
 <br />
 
@@ -55,19 +22,30 @@ $ # Access the web app in browser: http://127.0.0.1:8000/
 
 <br />
 
-## Credits & Links
+## App Screenshots
 
-- [Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) - Product page
-- [Django Dashboard Argon PRO](https://www.youtube.com/watch?v=lhnGXye6kdM) - yTube presentation
-- [Django Framework](https://www.djangoproject.com/) - Offcial website
+![Django Dashboard Argon PRO - App Screen.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-pro-screen.png)
 
 <br />
 
-## License
+![Flask Dashboard Argon Pro - App Screen.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-pro-screen-2.png)
 
-Commercial
+<br />
+
+![Django Dashboard Argon PRO - App Screen.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-pro-screen-1.png)
+
+<br />
+
+![Django Dashboard Argon PRO - App Screen.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-argon-pro-screen-3.png)
+
+<br />
+
+## Links & Resources
+
+- [Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) - product page
+- [Django Dashboard Argon PRO](https://www.youtube.com/watch?v=lhnGXye6kdM) - yTube presentation
 
 <br />
 
 ---
-[Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) - provided by **AppSeed**
+[Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) provided by **AppSeed**
