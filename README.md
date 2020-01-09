@@ -43,7 +43,7 @@ Admin Dashboard coded in **Django Framework** on top of **Argon Dashboard PRO** 
 ## Links & Resources
 
 - [Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) - product page
-- [Django Dashboard Argon PRO](https://www.youtube.com/watch?v=lhnGXye6kdM) - yTube presentation
+- [Django Dashboard Argon PRO](https://www.youtube.com/watch?v=bQvBPlsnRDI) - yTube presentation
 
 <br />
 
