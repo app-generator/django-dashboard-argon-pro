@@ -197,8 +197,8 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 ## Credits & Links
 
 - [Django](https://www.djangoproject.com/) - The offcial website
-- [Boilerplate Code](https://appseed.us/admin-dashboards) - Index provided by **AppSeed**
-- [Boilerplate Code](https://github.com/app-generator/boilerplate-code) - Index published on Github
+- [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - Index provided by **AppSeed**
+- [Django Admin Dashboards](https://github.com/app-generator/django-admin-dashboards) - Index published on Github
 
 <br />
 
