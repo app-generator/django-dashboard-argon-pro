@@ -1,10 +1,6 @@
 # [Django Dashboard argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)
 
-> Commercial product - **Django Dashboard** coded on top of **Argon Dashboard PRO** crafted by **Creative-Tim**.
-
-<br />
-
-## Dashboard Features
+> Commercial product - **Django Dashboard** coded on top of **Argon Dashboard PRO** crafted by **Creative-Tim** - Features:
 
 - Sample UI Kit: **Argon Dashboard PRO** provided by **Creative-Tim**
 - UI-Ready app, SQLite Database, Django Native ORM
