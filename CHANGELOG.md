@@ -1,5 +1,8 @@
 # Change Log
 
+## [Unreleased]
+- Patch - TemplateDoesNotExist error-404.html 
+
 ## [1.0.1] 2020-05-30
 ### Bug fixing, Improvements
 - Add CHANGELOG.md to track all changes
