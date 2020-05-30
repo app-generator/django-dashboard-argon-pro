@@ -1,4 +1,4 @@
-# [Django Dashboard argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)
+# [Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)
 
 > Commercial product - **Django Dashboard** coded on top of **Argon Dashboard PRO** crafted by **Creative-Tim** - Features:
 
@@ -12,15 +12,15 @@
 
 > Links
 
-- [Django Dashboard argon PRO](https://django-dashboard-argon-pro.appseed.us/) - LIVE Demo
-- [Django Dashboard argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) - Official product page
-- [Django Dashboard argon PRO](https://docs.appseed.us/admin-dashboards/django-dashboard-argon-pro/) - Starter docs
+- [Django Dashboard Argon PRO](https://django-dashboard-argon-pro.appseed.us/) - LIVE Demo
+- [Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) - Official product page
+- [Django Dashboard Argon PRO](https://docs.appseed.us/admin-dashboards/django-dashboard-argon-pro/) - Starter docs
 - More [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **[AppSeed](https://appseed.us)**
 - [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
 
 <br />
 
-![Django Dashboard argon PRO - Admin Dashboard coded in Django.](https://raw.githubusercontent.com/app-generator/django-dashboard-argon-pro/master/media/django-dashboard-argon-pro-screen.png)
+![Django Dashboard Argon PRO - Admin Dashboard coded in Django.](https://raw.githubusercontent.com/app-generator/django-dashboard-argon-pro/master/media/django-dashboard-argon-pro-screen.png)
 
 <br />
 
@@ -203,4 +203,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Django Dashboard argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
