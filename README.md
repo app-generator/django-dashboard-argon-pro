@@ -6,7 +6,7 @@
 
 ## Dashboard Features
 
-- Sample UI Kit: **argon Dashboard PRO** provided by **Creative-Tim**
+- Sample UI Kit: **Argon Dashboard PRO** provided by **Creative-Tim**
 - UI-Ready app, SQLite Database, Django Native ORM
 - Modular design, clean code-base
 - Session-Based Authentication, Forms validation
