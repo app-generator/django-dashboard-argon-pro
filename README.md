@@ -217,4 +217,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Django Dashboard](http://appseed.us/admin-dashboards/django) - Argon Dashboard PRO - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
